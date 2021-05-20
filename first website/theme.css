@@ -1,0 +1,40 @@
+body{
+	font-family: Verdana;
+	background-color: FFD3B6;
+	background-image: url(image4);
+	background-attachment:fixed;
+	background-repeat:none;
+	
+}
+
+h1 {
+	color: blue;
+	background-color: D9DEF2;
+	text-align: center;
+	font-size: 24pt;
+}
+
+p {
+	line-height: 1.5em;
+	text-indent: 60px;
+	margin-bottom: 30px;
+}
+
+h2 {
+	line-height: 1.5em;
+	text-indent: 20px;
+	margin-bottom: 30px;
+	background-color: D9DEF2;
+	text-align: center;
+	color: blue;
+	font-size: 16px;
+}
+
+div {
+	background-color:white;
+	width: 600px;
+	margin-left: auto; 
+	margin-right: auto;
+	padding: 10px;
+	border: 5px solid pink;
+}
